@@ -1,3 +1,12 @@
+<!-- =====================================================================
+  GitHub Profile README for hamda-0
+  SETUP
+  1. Open the repo named  hamda-0  (same as your username).
+  2. Upload  teaboi.png  from the Desktop folder  github-profile  to the
+     ROOT of that repo.
+  3. Paste everything BELOW this comment into README.md and commit.
+====================================================================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,55:1E1B4B,100:4F46E5&text=Hamda%20Aziz&fontColor=F8FAFC&fontSize=60&fontAlignY=36&desc=Mobile%20App%20Developer&descSize=20&descAlignY=58&descColor=C7D2FE" width="100%" alt="Hamda Aziz" />
@@ -8,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/hamda-aziz/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hamda2k23@gmail.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-14B8A6?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-14B8A6?style=for-the-badge" alt="Open to work" />
 
 <br/><br/>
 
@@ -16,7 +25,7 @@
   <tr>
     <td align="center" width="25%">
       <img src="https://quickchart.io/chart?w=150&h=150&bkg=transparent&c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B100%5D%2C%22backgroundColor%22%3A%22%236366F1%22%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22domain%22%3A%5B0%2C100%5D%2C%22trackColor%22%3A%22%23334155%22%2C%22centerPercentage%22%3A82%2C%22roundedCorners%22%3Atrue%2C%22centerArea%22%3A%7B%22text%22%3A%222%2B%22%2C%22fontColor%22%3A%22%236366F1%22%2C%22fontSize%22%3A36%7D%7D%7D" width="120" alt="EXPERIENCE" /><br/>
-      <b>EXPERIENCE</b><br/><sub>Years in production</sub>
+      <b>EXPERIENCE</b><br/><sub>Years shipping production apps</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://quickchart.io/chart?w=150&h=150&bkg=transparent&c=%7B%22type%22%3A%22radialGauge%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B95%5D%2C%22backgroundColor%22%3A%22%236366F1%22%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22domain%22%3A%5B0%2C100%5D%2C%22trackColor%22%3A%22%23334155%22%2C%22centerPercentage%22%3A82%2C%22roundedCorners%22%3Atrue%2C%22centerArea%22%3A%7B%22text%22%3A%22Primary%22%2C%22fontColor%22%3A%22%236366F1%22%2C%22fontSize%22%3A21%7D%7D%7D" width="120" alt="REACT NATIVE" /><br/>
@@ -33,10 +42,9 @@
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-I build and maintain **production mobile apps** for real clients in React Native and Flutter,<br/>
-from real-time tracking and payments to video calls, plus the Node.js backends behind them.
+**I build and ship production mobile apps** for real clients — from real-time tracking and payments to video calls — and the Node.js backends that power them.
 
 </div>
 
@@ -46,25 +54,35 @@ from real-time tracking and payments to video calls, plus the Node.js backends b
 
 <div align="center">
 
-<sub><b>MOBILE &nbsp;·&nbsp; LANGUAGES</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,ts,js,dart&theme=dark&perline=10" alt="Mobile and languages" />
-
+### 📱 Mobile
+<sub>React Native · Expo · Flutter</sub>
 <br/><br/>
-
-<sub><b>BACKEND &nbsp;·&nbsp; SERVICES &nbsp;·&nbsp; TOOLS</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,firebase,redux,git,postman,androidstudio,apple&theme=dark&perline=10" alt="Backend, services and tools" />
-
+<img src="https://skillicons.dev/icons?i=react,flutter,ts,js,dart,redux&theme=dark" alt="Mobile development" />
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Expo-1E1B4B?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-1E1B4B?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/GetX-1E1B4B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-1E1B4B?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Agora-1E1B4B?style=flat-square&logo=agora&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-1E1B4B?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-1E1B4B?style=flat-square&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Maps-1E1B4B?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Agora%20SDK-1E1B4B?style=flat-square&logo=agora&logoColor=white" />
 <img src="https://img.shields.io/badge/EAS%20Build-1E1B4B?style=flat-square&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-1E1B4B?style=flat-square&logo=xcode&logoColor=white" />
+
+<br/><br/>
+
+### 🗄️ Backend
+<sub>Node.js · REST APIs · Databases</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,prisma&theme=dark" alt="Backend development" />
+<br/><br/>
+<img src="https://img.shields.io/badge/REST%20APIs-1E1B4B?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-1E1B4B?style=flat-square&logo=socketdotio&logoColor=white" />
+
+<br/><br/>
+
+### 🛠️ Tools & Services
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,git,github,postman,androidstudio,apple&theme=dark" alt="Tools and services" />
 
 </div>
 
@@ -72,25 +90,24 @@ from real-time tracking and payments to video calls, plus the Node.js backends b
 
 ## 🚀 Featured Work
 
-<sub>Click a project to expand it.</sub>
+<sub>Click any project to expand.</sub>
 
 <details>
 <summary>
   <img src="./teaboi.png" width="34" align="center" alt="Teaboi" />&nbsp;
-  <b>Teaboi</b> &nbsp;·&nbsp; Beverage delivery platform &nbsp;
+  <b>Teaboi</b> &nbsp;·&nbsp; On-demand beverage delivery &nbsp;
   <img src="https://img.shields.io/badge/●%20Live-14B8A6?style=flat-square" align="center" />
 </summary>
 <br/>
 
-> Customer and vendor mobile apps for an on-demand beverage delivery service.
+Customer + vendor mobile apps for a live beverage delivery service.
 
-- **Real-time vendor tracking** on a live map with Google Maps and location services
-- **Live order updates** between customers and vendors over WebSockets
-- **Stripe** checkout and payment flows
-- Push notifications, social sign-in, and REST API integration
-- Ongoing development on a live product
+- Real-time vendor tracking on Google Maps  
+- Live order status updates via WebSockets  
+- Stripe payments & checkout  
+- Push notifications + social sign-in  
 
-<code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Socket.io</code> <code>Google Maps</code> <code>Stripe</code> <code>Zustand</code>
+**Stack:** `React Native` `Expo` `TypeScript` `Socket.io` `Google Maps` `Stripe` `Zustand`  
 
 <sub>🔒 Client project · source private</sub>
 <br/><br/>
@@ -104,12 +121,12 @@ from real-time tracking and payments to video calls, plus the Node.js backends b
 </summary>
 <br/>
 
-> Students find tutors for school subjects and standardized tests, then meet in-app.
+Students find tutors and join live video sessions in-app.
 
-- **Live video sessions** between students and tutors built on the Agora SDK
-- Application UI, functionality, and API integration
+- Live video sessions powered by Agora SDK  
+- Full app UI, functionality, and API integration  
 
-<code>Flutter</code> <code>Dart</code> <code>Agora SDK</code>
+**Stack:** `Flutter` `Dart` `Agora SDK`  
 
 <a href="https://apps.apple.com/pk/app/ibis-prep/id6448734780"><img src="https://img.shields.io/badge/View%20on%20App%20Store-4F46E5?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
@@ -125,12 +142,12 @@ from real-time tracking and payments to video calls, plus the Node.js backends b
 </summary>
 <br/>
 
-> Shopping app for glasses and contact lenses.
+Shopping app for glasses and contact lenses with Virtual Try-On.
 
-- **Virtual Try-On** so customers can preview frames on their face before buying
-- UI and app functionality across the mobile experience
+- Virtual Try-On so users can preview frames on their face  
+- Full shopping experience and API integration  
 
-<code>React Native</code> <code>Expo</code> <code>REST APIs</code>
+**Stack:** `React Native` `Expo` `REST APIs`  
 
 <a href="https://apps.apple.com/pk/app/hareth-optics/id6757722380"><img src="https://img.shields.io/badge/View%20on%20App%20Store-4F46E5?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
@@ -148,9 +165,8 @@ from real-time tracking and payments to video calls, plus the Node.js backends b
   <b>HelloBible : Bible Chat</b> &nbsp;·&nbsp; AI Bible companion
 </summary>
 <br/>
-
-Ongoing maintenance, bug fixes, and feature improvements for a live app. &nbsp;<code>React Native</code>
-
+Ongoing maintenance, bug fixes, and feature improvements on a live App Store product.  
+<code>React Native</code>
 <a href="https://apps.apple.com/pk/app/hellobible-bible-chat/id6502768944"><img src="https://img.shields.io/badge/View%20on%20App%20Store-4F46E5?style=flat-square&logo=apple&logoColor=white" /></a>
 <br/><br/>
 </details>
@@ -158,32 +174,32 @@ Ongoing maintenance, bug fixes, and feature improvements for a live app. &nbsp;<
 <details>
 <summary>🌍 &nbsp;<b>AutoHunt</b> &nbsp;·&nbsp; Multilingual Flutter app</summary>
 <br/>
-
-Multilingual support, localization, RTL layouts, and app theming. &nbsp;<code>Flutter</code>
+Localization, RTL support, and theming for a multi-language experience.  
+<code>Flutter</code>
 <br/><br/>
 </details>
 
 <details>
 <summary>🧾 &nbsp;<b>ZeeInvoice</b> &nbsp;·&nbsp; Invoice generator</summary>
 <br/>
-
-Invoice creation, preview, and PDF download workflows. &nbsp;<code>React Native</code>
+Invoice creation, preview, and PDF download flows.  
+<code>React Native</code>
 <br/><br/>
 </details>
 
 <details>
 <summary>🗄️ &nbsp;<b>E-commerce Backend</b> &nbsp;·&nbsp; Blogs & books platform</summary>
 <br/>
-
-REST API with purchasing and order workflows, built with Node.js and TypeScript. &nbsp;<code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code>
+REST API with purchasing and order workflows.  
+<code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code>
 <br/><br/>
 </details>
 
 <details>
-<summary>🎨 &nbsp;<b>Client UI Work</b> &nbsp;·&nbsp; Several mobile apps</summary>
+<summary>🎨 &nbsp;<b>Client UI Work</b> &nbsp;·&nbsp; Multiple mobile apps</summary>
 <br/>
-
-UI updates and improvements across other client mobile applications. &nbsp;<code>React Native</code> <code>Flutter</code>
+UI updates and polish across several client applications.  
+<code>React Native</code> <code>Flutter</code>
 <br/><br/>
 </details>
 
@@ -191,7 +207,9 @@ UI updates and improvements across other client mobile applications. &nbsp;<code
 
 <div align="center">
 
-### 🤝 Let's build something
+### 🤝 Let’s build something
+
+Available for full-time roles, contract work, and client projects.
 
 <a href="https://www.linkedin.com/in/hamda-aziz/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hamda2k23@gmail.com"><img src="https://img.shields.io/badge/hamda2k23%40gmail.com-1E1B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
