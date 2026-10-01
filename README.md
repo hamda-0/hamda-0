@@ -1,9 +1,3 @@
-<!-- ============================================================ -->
-<!--  GitHub Profile README for hamda-0                            -->
-<!--  Copy everything below this comment block into README.md     -->
-<!--  in the repository named  hamda-0  (same as your username).  -->
-<!-- ============================================================ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A5AE0,50:00B4D8,100:48CAE4&text=Hamda%20Aziz&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%C2%B7%20React%20Native%20%C2%B7%20Flutter%20%C2%B7%20Node.js&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Hamda Aziz - Mobile App Developer" />
 
 <p align="center">
