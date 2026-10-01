@@ -1,13 +1,3 @@
-<!-- =====================================================================
-  GitHub Profile README for hamda-0
-
-  SETUP
-  1. Open the repo named  hamda-0  (same as your username).
-  2. Upload  teaboi.png  from the Desktop folder  github-profile  to the
-     ROOT of that repo.
-  3. Paste everything BELOW this comment into README.md and commit.
-====================================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,55:1E1B4B,100:4F46E5&text=Hamda%20Aziz&fontColor=F8FAFC&fontSize=60&fontAlignY=36&desc=Mobile%20App%20Developer&descSize=20&descAlignY=58&descColor=C7D2FE" width="100%" alt="Hamda Aziz" />
